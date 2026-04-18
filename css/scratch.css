@@ -1,0 +1,29 @@
+body {
+  background-color: moccasin;      
+  color: black;                    
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.section {
+  background-color: azure;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.hero {
+  background-color: #f0f8ff;
+}
+
+.media iframe {
+  max-width: 100%;
+}
+
+img {
+  max-width: 300px;
+  border-radius: 8px;
+  display: block;
+  margin-top: 10px;
+}
